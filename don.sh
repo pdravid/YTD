@@ -1,0 +1,2 @@
+python don.py
+exit
